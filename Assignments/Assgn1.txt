@@ -1,0 +1,10 @@
+Q1.  From this given string: s = "Hey i am from coding blocks". Find out: length of string, convert this to list using split operation.
+
+Q2.  Given string s = "name is rahul". Write code to give following o/p.
+- "Name is rahul"
+-  "Rame Is Rahul"
+-  "NAME IS RAHUL"
+
+Q3. Using length and breadth as input find out area and perimeter of a given rectangle.
+
+Q4. Using diameter as input find out circumference and area of a circle.
