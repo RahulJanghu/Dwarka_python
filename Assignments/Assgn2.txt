@@ -1,0 +1,1 @@
+Q1. s = "Hi dwarka walo". For this given string write a code such that it prints the vowels present in the string s if any. ex: "i", "a" etc.
